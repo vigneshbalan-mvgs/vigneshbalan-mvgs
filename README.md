@@ -4,17 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vigneshbalan-mvgs" alt="vigneshbalan-mvgs" /></a> </p>
 
-- 🌱 I’m currently learning **Python with DSA**
-
-- 👨‍💻 All of my projects are available at [https://github.com/vigneshbalan-mvgs?tab=repositories](https://github.com/vigneshbalan-mvgs?tab=repositories)
-
-- 💬 Ask me about **react, javascritp, linux**
+- 🌱 I’m currently learning **Java with DSA**
 
 - 📫 How to reach me **vigneshbalanmvgs2003@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Hhi0adWTAL5ywRoc0i1ZOUGZZJEET4WpMbhI8Vlp2uU/edit?usp=sharing](https://docs.google.com/document/d/1Hhi0adWTAL5ywRoc0i1ZOUGZZJEET4WpMbhI8Vlp2uU/edit?usp=sharing)
-
-- ⚡ Fun fact **JS sucks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
