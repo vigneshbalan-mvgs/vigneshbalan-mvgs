@@ -1,10 +1,7 @@
 # Hi there 👋 I'm Vicky
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <div style="background-color: #2E3440; padding: 20px; border-radius: 10px;">
-        <h2 style="color: #ECEFF4; text-align: center;">GitHub Stats</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=vigneshbalan-mvgs&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
-    </div>
+
 
    
 </div>
